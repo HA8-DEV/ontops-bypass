@@ -10,11 +10,8 @@
 // @inject-into  page
 // @run-at       document-start
 // @noframes
-// @homepageURL  https://github.com/HA8-DEV/ontops-bypass
-// @supportURL   https://github.com/HA8-DEV/ontops-bypass/issues
 // @updateURL    https://raw.githubusercontent.com/HA8-DEV/ontops-bypass/main/ontops-bypass.user.js
 // @downloadURL  https://raw.githubusercontent.com/HA8-DEV/ontops-bypass/main/ontops-bypass.user.js
-// @license      MIT
 // ==/UserScript==
 // VN: + Xin vui lòng đừng cố gắng skid hoặc deobfuscate code này để remake tool mà không có sự cho phép của Seen
 //     + Xin bạn vui lòng không trở thành một thằng skidder tật não
